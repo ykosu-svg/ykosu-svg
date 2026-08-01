@@ -1,0 +1,12 @@
+# нужно ежедневному workflow
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# нужно только локально, когда меняешь фото/портрет
+pillow
+pyfiglet
+cairosvg        # для scripts/preview.py
+# опционально, для лучшего портрета из фото:
+# numpy
+# opencv-python
+# rembg
