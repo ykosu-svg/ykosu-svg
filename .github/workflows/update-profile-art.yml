@@ -1,0 +1,30 @@
+name: Update profile art
+
+"on":
+  schedule:
+    - cron: "17 6 * * *"      # ежедневно ~06:17 UTC
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install requests beautifulsoup4
+      - run: python scripts/fetch_stats.py
+        env:
+          GH_USER: ykosu-svg
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: python scripts/render_stats_svg.py
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh profile stats [skip ci]"
+          file_pattern: "data/stats.json stats-panel.svg"
