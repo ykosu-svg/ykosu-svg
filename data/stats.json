@@ -12,13 +12,6 @@
   },
   "repos": [
     {
-      "name": "ykosu-svg",
-      "language": "Python",
-      "stars": 0,
-      "updated": "2026-08-01",
-      "description": ""
-    },
-    {
       "name": "file-order-manager",
       "language": "Python",
       "stars": 0,
@@ -52,6 +45,13 @@
       "stars": 0,
       "updated": "2026-07-28",
       "description": ""
+    },
+    {
+      "name": "telegram-booking-bot",
+      "language": "Python",
+      "stars": 0,
+      "updated": "2026-07-28",
+      "description": ""
     }
   ],
   "contributions": {
@@ -60,5 +60,5 @@
     "current_streak": 1,
     "active_days": 3
   },
-  "generated": "2026-08-01 18:54 UTC"
+  "generated": "2026-08-01 18:55 UTC"
 }
