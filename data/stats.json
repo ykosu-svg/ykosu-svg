@@ -1,0 +1,20 @@
+{
+  "user": "ykosu-svg",
+  "name": "ykosu",
+  "created_at": "",
+  "public_repos": 6,
+  "followers": 0,
+  "following": 0,
+  "stars_received": 0,
+  "languages": { "Python": 5, "C#": 1 },
+  "repos": [
+    { "name": "file-order-manager",         "language": "Python", "stars": 0, "updated": "2026-07-31", "description": "" },
+    { "name": "desktop-file-organizer",     "language": "Python", "stars": 0, "updated": "2026-07-28", "description": "" },
+    { "name": "clock-widget",               "language": "C#",     "stars": 0, "updated": "2026-07-28", "description": "" },
+    { "name": "photo-widget",               "language": "Python", "stars": 0, "updated": "2026-07-28", "description": "" },
+    { "name": "telegram-ai-consultant-bot", "language": "Python", "stars": 0, "updated": "2026-07-28", "description": "" },
+    { "name": "telegram-booking-bot",       "language": "Python", "stars": 0, "updated": "2026-07-28", "description": "" }
+  ],
+  "contributions": { "total_year": 16, "longest_streak": 2, "current_streak": 1, "active_days": 4 },
+  "generated": "seed"
+}
