@@ -40,7 +40,7 @@
   </g>
   <g class="ln" style="animation:in .45s ease-out 0.91s forwards">
     <text x="26" y="252" font-family="'JetBrains Mono','DejaVu Sans Mono','Liberation Mono','Menlo','Consolas','Courier New',monospace" font-size="13" font-weight="bold" fill="#8be9fd">Repos</text>
-    <text x="122" y="252" font-family="'JetBrains Mono','DejaVu Sans Mono','Liberation Mono','Menlo','Consolas','Courier New',monospace" font-size="13" fill="#ffb86c">6 public</text>
+    <text x="122" y="252" font-family="'JetBrains Mono','DejaVu Sans Mono','Liberation Mono','Menlo','Consolas','Courier New',monospace" font-size="13" fill="#ffb86c">7 public</text>
   </g>
   <g class="ln" style="animation:in .45s ease-out 1.04s forwards">
     <text x="26" y="279" font-family="'JetBrains Mono','DejaVu Sans Mono','Liberation Mono','Menlo','Consolas','Courier New',monospace" font-size="13" font-weight="bold" fill="#8be9fd">Latest</text>
