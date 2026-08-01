@@ -24,7 +24,8 @@ jobs:
           GH_USER: ykosu-svg
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: python scripts/render_stats_svg.py
+      - run: python scripts/make_info_card.py
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh profile stats [skip ci]"
-          file_pattern: "data/stats.json stats-panel.svg"
+          file_pattern: "data/stats.json stats-panel.svg info-card.svg"
