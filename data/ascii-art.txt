@@ -1,47 +1,29 @@
-                      :c##c:
-                    .*s#%%%s-                              :--::=+-.
-                  -s###%%%%%c.                         -*s#%%%%%@@@%*.
-                :s#####%%%%%%s                      =s%%%%%%%%%%%@@%#+*c*=.
-               =ss##%####%%%%#-                   -#%%%%%%%%#%%#%%%#%%%###s.
-             .css#########%%%#c .-s%c-.         .+%%%%%##%###s###ss###ssss#*
-            .cssss#########%%%%sc%%%#s=:.      .c%%%%%%##s##sssssssss##%@@@c.
-            =ss#%%#####ss####%%@%#####%@#s+.  .c%%%%##sssssssssssss#%###sssss-...
-            +##########sss####%#sssssss###s*- :ssssssssssssssssssss#ss###sssssssscs*-
-            +s######sssssssss##ssssssssssssss*=ssssssssssssssss##s#sssssss##%%#%####s+
-            :csssssssssssssss######%#sssssssss#%#sssssssssssss%%###ss%%%@@%%%%%%%###ss:
-             .*sssssssssssssss%%#####sss#####s#%%##sssssssss##%%#%#s%%%%%%%%%%#ssssss+
-               -ssssssssssss%@@@##%%%###%%%%%%%@@@@%#ssss#######%###%%%####%%%##ssss=.
-                .+sssssssss@@@%%%%%%%###%%%%%%%%@@@%######%%%%##%#s####s#%%%%##*.
-                  -ssssssss#####%%%%%%#%%%%%%%%@@@@%%##%%%%%%#####s##s########*.
-                   -#ssssss####%%%%%%%%%%%%%%%%@@@@%%%%%%%####s###ssss#s#####s:
-                    c##ssssss##%%%@%%%%%%%%%%@%%%@@%#s######sss##s#ssss#####s*
-           .*##s.   .s##sssss#%%%%@%#%%%%%%%%%#%@@%#ssss#ss#sss##sssssss####s:
-          .s#%%#-    .+s#ssss#%%%%@%#%%%#%%%%s#%@%ssssssssssss##s%sssss####s:
-         .*######+.   .:s#sss##%%%@%##%%%%%%##%@%#ssssssssssss#s##ssss####*.
-         c##sss######s+:.:sss###%%%%##%%%#%##%%%%#sssssssssss#s#%ssss###c:
-         c#sss######%%%@@@@%%####%%####%%%###%%%%ssssssssssssss##sss##s:
-         =####%@@@@@@@@@@@@@%%##########%%#####%%#cssssssssssss#sssss-.
-          c%%%@@@%@@@@@@@@@@%%###sss#s##%%###%%#%#scssssssssss#sss*-
-          .*@@@s=.*s#%%%%%%%%####sssssss########ssscsssssssss#sc+:
-           -s#*.    .----:=ssssssssssssss##s##sssssssssssss##sc-.        -csc:
-            ..             .+sssssssssssss#sssssssssss#s###ssc:......  :cssssc:
-                            .csssssssccccssssssssss####s#sssscs#%%%%%#%%#####s*.
-                             -sssssssssccsssssssssccccss%@@@@#ss####%%###%%###c.:ss*:
-                              .cssssssssssssscscssss#%@@@@%sccccssss#%%%%%%%%#cssss#%c:
-                                :*ssssssssssssscccccccc*ccc***ccccsss#%%%%%%%%%%%%%###+
-                                   .=***sss#s##scscc*cc********ccccccsss#####ssssss##s.
-                                   .+-:+s#%%#%##scsccc****c*****ccccssscsssssssssss*-.
-                                   +=::c%%%%####sccccscc***cc****cccccccccccss##*.
-                                  -+-:.s%%%###s##c*cccssccc**scc****ccssssss##s=.
-                                 .+-::.s%##sssssssc**ccsssscc*cssssccsssssss+
-                                 ==::. *###ssssssssc**cssssssccccsssssssss#*
-                                :=-:.  -#ssssscccsssc***ss##sssssccssssss#s.
-                                -=::    =ssssscccccssc***css###sssssssssss-
-                               .+-:.     =ssssssccccsssccc*csss######%%#+.
-                               ==:.       .+ssssssssssssssssssss##%%#c=
-                              .+-:.         .+sssssssss######%%#*-.
-                              ==::            .:*s#####%%%%%%s=.
-                              +-:.                    :=.
-                             -=::.
-                             +-:.
-                            .=-:.
+             `*c-
+           `*%%%%:               `:+ccc#*:
+         .c##%%%%#`            -#%%%%%%@@#cs+.
+        -s####%%%%+.=c-.     .s%%%%%#########*.
+       :s#######%%%s%%#*+-. `%%%%#s#ssss##%%%s-.
+       =#########%%##ss##s=`c##sssssssss#s###ssssc+`
+       :s#####sss####%ssssss%#ssssss##%##s%%%%%%%%#s`
+        :csssssss#@%#%###%##@@%##s###%%%#%%%%%%##ss+.
+         .+sssss%@%%%%%%%%%%@@@%##%%%#%##%##%%%#+-`
+          .-ssss###%%%%%%%%%@@@%%%%%%#%######%#-.
+       .....*##s##%%@%%%%%%@%@@%s###ss%sss####s`
+      -#%s`..+####%%@%%%%%%#%@#scs#s####sss###:.
+     :s###s++-:cs#%%%%#%%%%%@%#sccsss###ss##*`.
+     -#####%%%@@@%##%%#%%%#%%%ssssss##%ss#s`
+      s#%@@@@@@@@%#####%%##%%%sss#sss#ss*`...
+      `%@=`=*ssc%###sss####%#scss####s=`.....=`.
+       :`      .`*ssssccs###sss#####s+-++=-+s#s:.
+                .:csscccccs#ss#s###@@###%%%%%%#+:::.
+                  .cssssssscccs#%%#sc*ccs#%%%%%###%#:
+                   .`-*+s###scc********cccs#%##ss###`
+                     --:#%%%%cccc*******ccccccsss+:.
+                    .=::%%####**csc**cc**ccccss*`
+                    +:``#%sssss**c#scccsssss#c`
+                   `-`..csscc*cc**c###sssccs#:
+                  .=:.  .+ssccccscccc##%%%#*:.
+                  `-`     `csssss###%#sc=-.
+                  =:`       .-+*#%s*+-.
+                 .-`             .
+                 ::`
