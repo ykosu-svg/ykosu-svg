@@ -1,20 +1,64 @@
 {
   "user": "ykosu-svg",
   "name": "ykosu",
-  "created_at": "",
-  "public_repos": 6,
+  "created_at": "2021-03-28",
+  "public_repos": 7,
   "followers": 0,
   "following": 0,
   "stars_received": 0,
-  "languages": { "Python": 5, "C#": 1 },
+  "languages": {
+    "Python": 6,
+    "C#": 1
+  },
   "repos": [
-    { "name": "file-order-manager",         "language": "Python", "stars": 0, "updated": "2026-07-31", "description": "" },
-    { "name": "desktop-file-organizer",     "language": "Python", "stars": 0, "updated": "2026-07-28", "description": "" },
-    { "name": "clock-widget",               "language": "C#",     "stars": 0, "updated": "2026-07-28", "description": "" },
-    { "name": "photo-widget",               "language": "Python", "stars": 0, "updated": "2026-07-28", "description": "" },
-    { "name": "telegram-ai-consultant-bot", "language": "Python", "stars": 0, "updated": "2026-07-28", "description": "" },
-    { "name": "telegram-booking-bot",       "language": "Python", "stars": 0, "updated": "2026-07-28", "description": "" }
+    {
+      "name": "ykosu-svg",
+      "language": "Python",
+      "stars": 0,
+      "updated": "2026-08-01",
+      "description": ""
+    },
+    {
+      "name": "file-order-manager",
+      "language": "Python",
+      "stars": 0,
+      "updated": "2026-07-31",
+      "description": ""
+    },
+    {
+      "name": "desktop-file-organizer",
+      "language": "Python",
+      "stars": 0,
+      "updated": "2026-07-28",
+      "description": ""
+    },
+    {
+      "name": "clock-widget",
+      "language": "C#",
+      "stars": 0,
+      "updated": "2026-07-28",
+      "description": ""
+    },
+    {
+      "name": "photo-widget",
+      "language": "Python",
+      "stars": 0,
+      "updated": "2026-07-28",
+      "description": ""
+    },
+    {
+      "name": "telegram-ai-consultant-bot",
+      "language": "Python",
+      "stars": 0,
+      "updated": "2026-07-28",
+      "description": ""
+    }
   ],
-  "contributions": { "total_year": 16, "longest_streak": 2, "current_streak": 1, "active_days": 4 },
-  "generated": "seed"
+  "contributions": {
+    "total_year": 22,
+    "longest_streak": 1,
+    "current_streak": 1,
+    "active_days": 3
+  },
+  "generated": "2026-08-01 18:44 UTC"
 }
