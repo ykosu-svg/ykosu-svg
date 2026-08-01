@@ -57,6 +57,7 @@ def main():
     user = api(f"/users/{USER}")
     repos = api(f"/users/{USER}/repos?per_page=100&sort=updated")
     repos = [r for r in repos if not r.get("fork")]
+    listed = [r for r in repos if r["name"].lower() != USER.lower()]
 
     langs = {}
     for r in repos:
@@ -76,7 +77,7 @@ def main():
             {"name": r["name"], "language": r.get("language") or "-",
              "stars": r.get("stargazers_count", 0), "updated": (r.get("pushed_at") or "")[:10],
              "description": (r.get("description") or "")[:70]}
-            for r in repos[:6]
+            for r in listed[:6]
         ],
         "contributions": contributions(),
         "generated": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),

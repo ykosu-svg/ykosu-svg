@@ -1,8 +1,17 @@
 #!/usr/bin/env python3
 """Neofetch-style info card -> info-card.svg  (edit ROWS to taste)."""
-import os
+import json, os
 from theme import (MONO, LINE, FG, COMMENT, CYAN, GREEN, ORANGE, PINK,
                    PURPLE, YELLOW, esc, window_chrome)
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+try:
+    _d = json.load(open(os.path.join(ROOT, "data", "stats.json"), encoding="utf-8"))
+    REPOS = f'{_d["public_repos"]} public'
+    LATEST = _d["repos"][0]["name"] if _d.get("repos") else "-"
+except Exception:
+    REPOS, LATEST = "6 public", "file-order-manager"
 
 TITLE = "ykosu@github"
 
@@ -14,8 +23,8 @@ ROWS = [
     ("Focus",     "Automation, tooling, small useful apps",  FG),
     ("Stack",     "Python · C# · Telegram Bot API",          GREEN),
     ("Libs",      "aiogram · Pillow · WinForms · Tkinter",   FG),
-    ("Repos",     "6 public",                                ORANGE),
-    ("Latest",    "file-order-manager",                      PINK),
+    ("Repos",     REPOS,                                     ORANGE),
+    ("Latest",    LATEST,                                    PINK),
     ("Editor",    "VS Code · Git",                           FG),
     ("Motto",     "if it repeats twice, script it",          YELLOW),
 ]
